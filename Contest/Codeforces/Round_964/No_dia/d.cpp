@@ -1,37 +1,44 @@
-    #include <bits/stdc++.h>
-    using namespace std;
-     
-    void solve() {
-        int n, s, m;
-        cin >> n >> s >> m;
-     
-        int atu = 0;
-        bool consegue = false;
-        for (int i = 0; i < n; i++) {
-            int l, r; cin >> l >> r;
-     
-            if (l-atu >= s) {
-                consegue = true;
-            }
-            atu = r;
+#include <bits/stdc++.h>
+using namespace std;
+
+void solve() {
+    string s, t; cin >> s >> t;
+
+    string resp = "";
+    int p = 0;
+
+    for (int i = 0; i < s.length(); i++) {
+        if (s[i] == t[p]) {
+            resp += s[i];
+            p++;
         }
-     
-        if (m-atu >= s) {
-            consegue = true;
-        }
-     
-        if (consegue) {
-            cout << "YES\n";
+        else if (s[i] != '?') {
+            resp += s[i];
         }
         else {
-            cout << "NO\n";
+            if (p < t.size()) {
+                resp += t[p];
+                p++;
+            }
+            else {
+                resp += "x";
+            }
         }
     }
-     
-    signed main() {
-        int t; cin >> t;
-     
-        for (int i = 0; i < t; i++) {
-            solve();
-        }
+
+    if (p < t.length()) {
+        cout << "NO\n";
     }
+    else {
+        cout << "YES\n";
+        cout << resp << "\n";
+    }
+}
+
+signed main() {
+    int t; cin >> t;
+
+    for (int i = 0; i < t; i++) {
+        solve();
+    }
+}
