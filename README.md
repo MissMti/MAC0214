@@ -13,5 +13,5 @@ Resolvi os exercicios do Codeforces Round 964 (Div. 4) que minhas colegas haviam
 Resolvi os exercicios do Codeforces Round 964 (Div. 4) que não tinhamos conseguido resolver no dia 6 (F, G1 e G2). De forma geral, achei a prova simples, mas no dia nos faltou tempo para realizar todos e o site caiu várias vezes.
 [Códigos feitos no Upsolving](Contest/Codeforces/Round_964/Upsolving)
 
-## 10 de agosto - 5h
+### 10 de agosto - 5h
 Participei do evento da Seletiva USP.
