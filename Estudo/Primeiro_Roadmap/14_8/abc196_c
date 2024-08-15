@@ -1,0 +1,52 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define int long long
+
+long long MAX=1000000007;
+
+signed main() {
+    //ios::sync_with_stdio(0);
+    //cin.tie(NULL);cout.tie(NULL);
+
+    long long n,b=10,x,erro=0,rsp=0;
+    vector<int> a;
+    cin>>n;
+
+    for(int i=1;i<13;i++){
+        if(n/b==0){
+            erro=i;
+            break;
+        }
+        b*=10;
+    }
+
+    //cout<<erro<<"\n";
+
+    if(erro%2==0){
+        int a,b=0,controle=10,aux=1;
+        for(int i=1;i<=erro/2;i++){
+            b+=(n%controle)*aux;
+            n/=controle;
+            aux=aux*10;
+        }
+        a=n;
+        //cout<<a<<" "<<b<<"\n";
+        if(a<=b){
+            rsp=a;
+        }
+        else{
+            rsp=a-1;
+        }
+    }
+    else{
+        int aux=1;
+        for(int i=0;i<erro/2;i++){
+            rsp+=9*aux;
+            aux*=10;
+        }
+    }
+
+    cout<<rsp<<"\n";
+
+}
