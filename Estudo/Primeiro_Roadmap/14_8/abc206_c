@@ -1,0 +1,36 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define int long long
+
+long long MAX=1000000007;
+
+signed main() {
+    //ios::sync_with_stdio(0);
+    //cin.tie(NULL);cout.tie(NULL);
+
+    long long n,b,erro=0;
+    vector<int> a;
+    cin>>n;
+    for(int i=0;i<n;i++){
+        cin>>b;
+        a.push_back(b);
+    }
+    
+    sort(a.begin(),a.end());
+
+    for(int i=0;i<n-1;i++){
+        int aux=1;
+        while(a[i]==a[i+1]){
+            i++;
+            aux++;
+            if(i==n-1){
+                break;
+            }
+        }
+        erro+=aux*(n-1-i);
+    }
+
+    cout<<erro<<"\n";
+
+}
