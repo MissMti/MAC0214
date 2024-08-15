@@ -1,0 +1,38 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define int long long
+
+long long MAX=1000000007;
+
+signed main() {
+    //ios::sync_with_stdio(0);
+    //cin.tie(NULL);cout.tie(NULL);
+
+    long long n,b,x,erro=0;
+    vector<int> a;
+    cin>>n;
+    for(int i=0;i<n;i++){
+        cin>>b;
+        a.push_back(b);
+        erro+=b;
+    }
+    
+    cin>>x;
+
+    int k=a.size()*(x/erro);
+
+    x=x%erro;
+
+    for(int i=0;i<n;i++){
+        k++;
+        x-=a[i];
+        if(x<0){
+            break;
+        }
+    }
+
+
+    cout<<k<<"\n";
+
+}
