@@ -1,0 +1,28 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define int long long
+
+long long MAX=1000000007;
+
+int a[500];//-200 0 200
+
+signed main() {
+    //ios::sync_with_stdio(0);
+    //cin.tie(NULL);cout.tie(NULL);
+
+    int n,b,rsp=0;
+    cin>>n;
+    for(int i=0;i<n;i++){
+        cin>>b;
+        b=b+200;
+        a[b]++;
+    }
+    for(int i=0;i<401;i++){
+        for(int j=i+1;j<401;j++){
+            rsp+=(i-j)*(i-j)*a[i]*a[j];
+        }
+    }
+    cout<<rsp<<"\n";
+
+}
