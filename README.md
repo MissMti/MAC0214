@@ -15,3 +15,12 @@ Resolvi os exercicios do Codeforces Round 964 (Div. 4) que não tinhamos consegu
 
 ### 10 de agosto - 5h
 Participei do evento da Seletiva USP.
+
+
+## Semana 2 (5 à 10/8)
+
+### 14 de agosto - 3h
+O grupo criou uma conta no Overleaf para começar um caderno próprio da equipe. Comecei a seguir um Roadmap de programação competitiva do [link](https://codeforces.com/blog/entry/111099).
+[Códigos feitos no Estudo](Estudo/Primeira_Roadmap/14_8)
+
+## Total(Até o momento) = 12h
