@@ -2,7 +2,7 @@
 
 ## Semana 1 (5 à 10/8)
 ### 6 de agosto - 2 h
-Nesse dia, eu e minhas colegas de equipe participamos do Codeforces Round 964 (Div. 4).
+Nesse dia, eu e minhas colegas de equipe participamos do [Codeforces Round 964 (Div. 4)](https://codeforces.com/contest/1999).
 [Códigos feitos no dia](Contest/Codeforces/Round_964/No_dia)
 
 ### 7 de agosto - 3h
@@ -22,5 +22,9 @@ Participei do evento da Seletiva USP.
 ### 14 de agosto - 3h
 O grupo criou uma conta no Overleaf para começar um caderno próprio da equipe. Comecei a seguir um Roadmap de programação competitiva do [link](https://codeforces.com/blog/entry/111099).
 [Códigos feitos no Estudo](Estudo/Primeira_Roadmap/14_8)
+
+### 15 de agosto - 2h
+Meu grupo participamos do [Codeforces Round 169 (Rated for Div. 2)](https://codeforces.com/contest/2004).
+[Códigos feitos no dia](Contest/Codeforces/Round_169/No_dia)
 
 ## Total(Até o momento) = 12h
