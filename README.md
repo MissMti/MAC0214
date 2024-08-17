@@ -31,11 +31,14 @@ Meu grupo participamos do [Codeforces Round 169 (Rated for Div. 2)](https://code
 
 [Códigos feitos no dia](Contest/Codeforces/Round_169/No_dia)
 
-### 16 de agosto - 
-Fiz Upsolving do contest feito em grupo, dos exercicios que não havia codado no dia e os que não fizemos juntos em grupo também.
+### 16 de agosto - 3h
+Fiz Upsolving do contest feito em grupo, dos exercicios que não havia codado no dia (A) e o D que não fizemos no dia. Eu demorei tempo demais tentando resolver o D, acho que deveria ter visto o Tutorial mais cedo para poder ter visto mais exercícios.
 
 [Códigos feitos no Upsolving](Contest/Codeforces/Round_169/Upsolving)
 
-### 17 de agosto - 
+### 17 de agosto - 2h
+Fiz o [Contest abc367 no AtCoder](https://atcoder.jp/contests/abc367) individualmente.
 
-## Total(Até o momento) = 12h
+[Códigos feitos no dia](Contest/AtCoder/abc367/No_dia)
+
+## Total(Até o momento) = 22h
