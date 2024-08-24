@@ -20,7 +20,7 @@ Resolvi os exercicios do Codeforces Round 964 (Div. 4) que não tinhamos consegu
 Participei do evento da Seletiva USP.
 
 
-## Semana 2 (5 à 10/8)
+## Semana 2 (12 à 17/8)
 
 ### 14 de agosto - 3h
 O grupo criou uma conta no Overleaf para começar um caderno próprio da equipe. Comecei a seguir um Roadmap de programação competitiva do [link](https://codeforces.com/blog/entry/111099).
@@ -40,5 +40,22 @@ Fiz Upsolving do contest feito em grupo, dos exercicios que não havia codado no
 Fiz o [Contest abc367 no AtCoder](https://atcoder.jp/contests/abc367) individualmente.
 
 [Códigos feitos no dia](Contest/AtCoder/abc367/No_dia)
+
+
+## Semana 3 (19 à 24/8)
+
+### 23 de agosto - 4h
+Fiz o Upsolving de uma questão no Contest individual do dia 17 e avancei na minha Roadmap.
+
+[Códigos feitos no Upsolving](Contest/AtCoder/abc367/Upsolving)
+[link da Roadmap](https://codeforces.com/blog/entry/111099).
+[Códigos feitos no Estudo](Estudo/Primeira_Roadmap/23_8)
+
+### 24 de agosto - 4h
+Participei do Contest xxx no AtCOder e avancei na minha Roadmap.
+
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc367/Upsolving)
+[link da Roadmap](https://codeforces.com/blog/entry/111099).
+[Códigos feitos no Estudo](Estudo/Primeira_Roadmap/24_8)
 
 ## Total(Até o momento) = 22h
