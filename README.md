@@ -44,18 +44,15 @@ Fiz o [Contest abc367 no AtCoder](https://atcoder.jp/contests/abc367) individual
 
 ## Semana 3 (19 à 24/8)
 
-### 23 de agosto - 4h
+### 23 de agosto - 6h
 Fiz o Upsolving de uma questão no Contest individual do dia 17 e avancei na minha Roadmap.
 
-[Códigos feitos no Upsolving](Contest/AtCoder/abc367/Upsolving)
+[Código feito no Upsolving](Contest/AtCoder/abc367/Upsolving).
 [link da Roadmap](https://codeforces.com/blog/entry/111099).
-[Códigos feitos no Estudo](Estudo/Primeira_Roadmap/23_8)
+[Códigos feitos no Estudo](Estudo/Primeira_Roadmap/23_8).
 
-### 24 de agosto - 4h
-Participei do Contest xxx no AtCOder e avancei na minha Roadmap.
+### 24 de agosto - 2h
+Participei do [Contest abc368 no AtCoder](https://atcoder.jp/contests/abc368).
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc368/No_dia).
 
-[Códigos feitos no Contest do dia](Contest/AtCoder/abc367/Upsolving)
-[link da Roadmap](https://codeforces.com/blog/entry/111099).
-[Códigos feitos no Estudo](Estudo/Primeira_Roadmap/24_8)
-
-## Total(Até o momento) = 22h
+## Total(Até o momento) = 30h
