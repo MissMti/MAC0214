@@ -24,7 +24,7 @@ Participei do evento da Seletiva USP.
 
 ### 14 de agosto - 3h
 O grupo criou uma conta no Overleaf para começar um caderno próprio da equipe. Comecei a seguir um Roadmap de programação competitiva do [link](https://codeforces.com/blog/entry/111099).
-[Códigos feitos no Estudo](Estudo/Primeira_Roadmap/14_8)
+[Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/14_8)
 
 ### 15 de agosto - 2h
 Meu grupo participamos do [Codeforces Round 169 (Rated for Div. 2)](https://codeforces.com/contest/2004).
@@ -49,7 +49,7 @@ Fiz o Upsolving de uma questão no Contest individual do dia 17 e avancei na min
 
 [Código feito no Upsolving](Contest/AtCoder/abc367/Upsolving).
 [link da Roadmap](https://codeforces.com/blog/entry/111099).
-[Códigos feitos no Estudo](Estudo/Primeira_Roadmap/23_8).
+[Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/23_8).
 
 ### 24 de agosto - 2h
 Participei do [Contest abc368 no AtCoder](https://atcoder.jp/contests/abc368).
