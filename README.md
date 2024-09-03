@@ -55,4 +55,15 @@ Fiz o Upsolving de uma questão no Contest individual do dia 17 e avancei na min
 Participei do [Contest abc368 no AtCoder](https://atcoder.jp/contests/abc368).
 [Códigos feitos no Contest do dia](Contest/AtCoder/abc368/No_dia).
 
+
+## Semana 3 (26 à 31/8)
+
+### 26 de agosto - 5h
+Eu e minha equipe realizamos o Gym [2018-2019 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/101908) pelo Codeforces, como forma para treinar para a prova no sábado.
+
+[Códigos feitos no dia](Contest/Codeforces/Gym_101908/No_dia)
+
+### 31 de agosto - 5h
+Participei da Prova Regional Brasileira da ICPC, com meu time "Baião de Dois and it's the same but there is a new person so it's not".
+
 ## Total(Até o momento) = 30h
