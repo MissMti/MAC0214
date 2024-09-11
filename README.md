@@ -85,7 +85,7 @@ Comecei a fazer o Upsolving da Prova Regional Brasileira da ICPC, resolvendo a q
 
 [Código feito no Upsolving](Contest/Prova_Regional_Upsolving).
 
-### 11 de setembro - h
+### 11 de setembro - 2h
 Comecei a fazer o Upsolving da Prova Regional Brasileira da ICPC, resolvendo a questão K.
 
 [Código feito no Upsolving](Contest/Prova_Regional_Upsolving).
