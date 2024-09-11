@@ -81,7 +81,7 @@ Participei da Prova Regional Brasileira da ICPC, com meu time "Baião de Dois an
 ## Semana 6 (09 à 14/8)
 
 ### 10 de setembro - 3h
-Comecei a fazer o Upsolving da Prova Regional Brasileira da ICPC, resolvendo a questão H.
+Comecei a fazer o Upsolving da Prova Regional Brasileira da ICPC, resolvendo a questão H. Demorei muito tempo nesse exercicio, então resolvi procurar ajuda e percebi que preciso estudar mais sobre Bitmask.
 
 [Código feito no Upsolving](Contest/Prova_Regional_Upsolving).
 
