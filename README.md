@@ -1,6 +1,7 @@
 # MAC0214
 
 ## Semana 1 (5 à 10/8)
+
 ### 6 de agosto - 2 h
 Nesse dia, eu e minhas colegas de equipe participamos do [Codeforces Round 964 (Div. 4)](https://codeforces.com/contest/1999).
 
@@ -18,6 +19,7 @@ Resolvi os exercicios do Codeforces Round 964 (Div. 4) que não tinhamos consegu
 
 ### 10 de agosto - 5h
 Participei do evento da Seletiva USP.
+
 
 
 ## Semana 2 (12 à 17/8)
@@ -42,6 +44,7 @@ Fiz o [Contest abc367 no AtCoder](https://atcoder.jp/contests/abc367) individual
 [Códigos feitos no dia](Contest/AtCoder/abc367/No_dia)
 
 
+
 ## Semana 3 (19 à 24/8)
 
 ### 23 de agosto - 6h
@@ -56,7 +59,8 @@ Participei do [Contest abc368 no AtCoder](https://atcoder.jp/contests/abc368).
 [Códigos feitos no Contest do dia](Contest/AtCoder/abc368/No_dia).
 
 
-## Semana 3 (26 à 31/8)
+
+## Semana 4 (26 à 31/8)
 
 ### 26 de agosto - 5h
 Eu e minha equipe realizamos o Gym [2018-2019 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/101908) pelo Codeforces, como forma para treinar para a prova no sábado.
@@ -64,6 +68,41 @@ Eu e minha equipe realizamos o Gym [2018-2019 ACM-ICPC Brazil Subregional Progra
 [Códigos feitos no dia](Contest/Codeforces/Gym_101908/No_dia)
 
 ### 31 de agosto - 5h
-Participei da Prova Regional Brasileira da ICPC, com meu time "Baião de Dois and it's the same but there is a new person so it's not".
+Participei da Prova Regional Brasileira da ICPC, com meu time "Baião de Dois and it's the same but there is a new person so it's not", conseguimos ser a melhor equipe feminina da sede, mas infelizmente não conseguimos passar para a próxima fase.
 
-## Total(Até o momento) = 30h
+
+
+## Semana 5 (02 à 07/9)
+
+### Semana da Pátria - 0h
+
+
+## Total(Até o momento) = 40h
+## Semana 6 (09 à 14/8)
+
+### 10 de setembro - 3h
+Comecei a fazer o Upsolving da Prova Regional Brasileira da ICPC, resolvendo a questão H.
+
+[Código feito no Upsolving](Contest/Prova_Regional_Upsolving).
+
+### 11 de setembro - h
+Comecei a fazer o Upsolving da Prova Regional Brasileira da ICPC, resolvendo a questão H.
+
+[Código feito no Upsolving](Contest/Prova_Regional_Upsolving).
+
+### 12 de setembro - h
+Comecei a fazer o Upsolving da Prova Regional Brasileira da ICPC, resolvendo a questão H.
+
+[Código feito no Upsolving](Contest/Prova_Regional_Upsolving).
+
+### 13 de setembro - h
+Comecei a fazer o Upsolving da Prova Regional Brasileira da ICPC, resolvendo a questão H.
+
+[Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/23_8).
+
+### 14 de setembro - h
+Comecei a fazer o Upsolving da Prova Regional Brasileira da ICPC, resolvendo a questão H.
+
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc368/No_dia).
+
+
