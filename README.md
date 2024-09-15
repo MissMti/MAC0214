@@ -90,18 +90,14 @@ Comecei a fazer o Upsolving da Prova Regional Brasileira da ICPC, resolvendo a q
 
 [Código feito no Upsolving](Contest/Prova_Regional_Upsolving).
 
-[Código feito no Upsolving](Contest/Prova_Regional_Upsolving).
-
 ### 13 de setembro - 1h
 Continuei seguindo o [Roadmap](https://codeforces.com/blog/entry/111099).
 
 [Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/13_9).
 
 ### 14 de setembro - 2h
-Participei do [Contest abc235 no atcoder](https://atcoder.jp/contests/abc235).
+Participei do [Contest abc371 no atcoder](https://atcoder.jp/contests/abc235).
 
-[Códigos feitos no Contest do dia](Contest/AtCoder/abc235/No_dia).
-
-[Códigos feitos no Contest do dia](Contest/AtCoder/abc368/No_dia).
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc371).
 
 ## Total(Até o momento) = 48h
