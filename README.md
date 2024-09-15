@@ -77,7 +77,7 @@ Participei da Prova Regional Brasileira da ICPC, com meu time "Baião de Dois an
 ### Semana da Pátria - 0h
 
 
-## Total(Até o momento) = 40h
+
 ## Semana 6 (09 à 14/9)
 
 ### 10 de setembro - 3h
@@ -97,9 +97,11 @@ Continuei seguindo o [Roadmap](https://codeforces.com/blog/entry/111099).
 
 [Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/13_9).
 
-### 14 de setembro - h
-Comecei a fazer o Upsolving da Prova Regional Brasileira da ICPC, resolvendo a questão H.
+### 14 de setembro - 2h
+Participei do [Contest abc235 no atcoder](https://atcoder.jp/contests/abc235).
+
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc235/No_dia).
 
 [Códigos feitos no Contest do dia](Contest/AtCoder/abc368/No_dia).
 
-
+## Total(Até o momento) = 48h
