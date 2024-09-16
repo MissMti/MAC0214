@@ -101,3 +101,10 @@ Participei do [Contest abc371 no atcoder](https://atcoder.jp/contests/abc235).
 [Códigos feitos no Contest do dia](Contest/AtCoder/abc371).
 
 ## Total(Até o momento) = 48h
+
+## Semana 7 (16 à 21/9)
+
+### 16 de setembro - 1h
+Comecei a fazer o Upsolving da Prova do último sábado.
+
+[Código feito no Upsolving](Contest/AtCoder/abc371/Upsolving).
