@@ -107,12 +107,12 @@ Participei do [Contest abc371 no atcoder](https://atcoder.jp/contests/abc235).
 ### 16 de setembro - 1h
 Comecei a fazer o Upsolving da Prova do último sábado.
 
-[Código feito no Upsolving](Contest/Prova_Regional_Upsolving).
+[Código feito no Upsolving](Contest/AtCoder/abc371/Upsolving).
 
-### 16 de setembro - 1h
+### 17 de setembro - 1h
 Continuei o Upsolving da Prova do último sábado.
 
-[Código feito no Upsolving](Contest/Prova_Regional_Upsolving).
+[Código feito no Upsolving](Contest/AtCoder/abc371/Upsolving).
 
 ### 20 de setembro - 4h
 Continuei meus estudos pela Roadmap, ach ique foi produtivo revi varias estruturas da stl que não usava faz tempo e aprendi novas funções bem úteis em algumas delas.
