@@ -100,7 +100,7 @@ Participei do [Contest abc371 no atcoder](https://atcoder.jp/contests/abc235).
 
 [Códigos feitos no Contest do dia](Contest/AtCoder/abc371).
 
-## Total(Até o momento) = 48h
+
 
 ## Semana 7 (16 à 21/9)
 
@@ -119,6 +119,32 @@ Continuei meus estudos pela Roadmap, ach ique foi produtivo revi varias estrutur
 
 [Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/20_9).
 
+### 21 de setembro - 2h
+Participei do [Contest abc372 no atcoder](https://atcoder.jp/contests/abc372).
 
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc372).
 
+## Total(Até o momento) = 56h
+
+## Semana 8 (23 à 28/9)
+
+### 23 de setembro - 1h
+Comecei a fazer o Upsolving da Prova do último sábado.
+
+[Código feito no Upsolving](Contest/AtCoder/abc372/Upsolving).
+
+### 24 de setembro - 1h
+Continuei o Upsolving da Prova do último sábado.
+
+[Código feito no Upsolving](Contest/AtCoder/abc372/Upsolving).
+
+### 20 de setembro - 4h
+Continuei meus estudos pela Roadmap, ach ique foi produtivo revi varias estruturas da stl que não usava faz tempo e aprendi novas funções bem úteis em algumas delas.
+
+[Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/20_9).
+
+### 21 de setembro - 2h
+Participei do [Contest abc372 no atcoder](https://atcoder.jp/contests/abc372).
+
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc372).
 [Código feito no Upsolving](Contest/AtCoder/abc371/Upsolving).
