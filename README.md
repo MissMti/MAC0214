@@ -124,7 +124,7 @@ Participei do [Contest abc372 no atcoder](https://atcoder.jp/contests/abc372).
 
 [Códigos feitos no Contest do dia](Contest/AtCoder/abc372).
 
-## Total(Até o momento) = 56h
+
 
 ## Semana 8 (23 à 28/9)
 
@@ -133,18 +133,74 @@ Comecei a fazer o Upsolving da Prova do último sábado.
 
 [Código feito no Upsolving](Contest/AtCoder/abc372/Upsolving).
 
-### 24 de setembro - 1h
+### 24 de setembro - 3h
 Continuei o Upsolving da Prova do último sábado.
 
 [Código feito no Upsolving](Contest/AtCoder/abc372/Upsolving).
 
-### 20 de setembro - 4h
-Continuei meus estudos pela Roadmap, ach ique foi produtivo revi varias estruturas da stl que não usava faz tempo e aprendi novas funções bem úteis em algumas delas.
+Continuei meus estudos pela Roadmap.
 
-[Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/20_9).
+[Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/24_9).
 
-### 21 de setembro - 2h
-Participei do [Contest abc372 no atcoder](https://atcoder.jp/contests/abc372).
+### 25 de setembro - 2h
+Continuei meus estudos pela Roadmap, achei que foi produtivo revi varias estruturas da stl que não usava faz tempo e aprendi novas funções bem úteis em algumas delas.
 
-[Códigos feitos no Contest do dia](Contest/AtCoder/abc372).
-[Código feito no Upsolving](Contest/AtCoder/abc371/Upsolving).
+[Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/25_9).
+
+### 28 de setembro - 2h
+Participei do [Contest abc373 no atcoder](https://atcoder.jp/contests/abc373).
+
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc373).
+
+
+
+## Semana 9 (30 à 5/10)
+
+### 30 de setembro - 1h30
+Comecei a fazer o Upsolving da Prova do último sábado.
+
+[Código feito no Upsolving](Contest/AtCoder/abc373/upsolving).
+
+### 1 de outubro - 1h30
+Continuei a fazer o Upsolving da Prova do último sábado.
+
+[Código feito no Upsolving](Contest/AtCoder/abc373/upsolving).
+
+### 2 de outubro - 3h
+Continuei meus estudos pela Roadmap.
+
+[Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/2_10).
+
+### 5 de outubro - 2h
+Participei do [Contest abc374 no atcoder](https://atcoder.jp/contests/abc374).
+
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc374).
+
+
+
+## Total(Até o momento) = 72h
+
+## Semana 10 (7 à 12/10)
+
+### 10 de outubro - 
+Continuei a fazer o Upsolving da Prova do último sábado.
+
+[Código feito no Upsolving](Contest/AtCoder/abc374/Upsolving).
+
+### 11 de outubro - 
+Continuei meus estudos pela Roadmap.
+
+[Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/2_10).
+
+### 5 de outubro - 2h
+Participei do [Contest abc375 no atcoder](https://atcoder.jp/contests/abc375).
+
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc375).
+
+
+
+
+
+
+
+
