@@ -178,25 +178,53 @@ Participei do [Contest abc374 no atcoder](https://atcoder.jp/contests/abc374).
 
 
 
-## Total(Até o momento) = 72h
 
 ## Semana 10 (7 à 12/10)
 
-### 10 de outubro - 
+### 10 de outubro - 3h
 Continuei a fazer o Upsolving da Prova do último sábado.
 
 [Código feito no Upsolving](Contest/AtCoder/abc374/Upsolving).
 
-### 11 de outubro - 
+### 11 de outubro - 3h
 Continuei meus estudos pela Roadmap.
 
 [Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/2_10).
 
-### 5 de outubro - 2h
+### 12 de outubro - 2h
 Participei do [Contest abc375 no atcoder](https://atcoder.jp/contests/abc375).
 
 [Códigos feitos no Contest do dia](Contest/AtCoder/abc375).
 
+
+
+
+## Semana 11 (14 à 19/10) - SEMANA DE BREAK NA COMPUTAÇÃO
+
+### 19 de outubro - 8h
+Participei da Maratona de Programação da Layers Education,fiz grupo com um colega meu mais duas pessoas que conheci no local, felizmente consegui ter uma bom desempenho terminando em segundo lugar em grupo.
+
+## Total(Até o momento) = 88h
+
+
+
+## Semana 12 (21 à 26/10)
+
+### 21 de outubro - 2h
+Continuei a fazer o Upsolving da Prova do último sábado.
+
+[Código feito no Upsolving](Contest/AtCoder/abc375/Upsolving).
+
+### 23 de outubro - 2h
+Continuei a fazer o Upsolving da Prova do último sábado.
+
+[Código feito no Upsolving](Contest/AtCoder/abc375/Upsolving).
+
+### 26 de outubro - 4h
+Continuei com o Roadmap e participei do [Contest abc376 no atcoder](https://atcoder.jp/contests/abc376).
+
+[Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/26_10).
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc376).
 
 
 
