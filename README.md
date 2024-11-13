@@ -204,7 +204,6 @@ Participei do [Contest abc375 no atcoder](https://atcoder.jp/contests/abc375).
 ### 19 de outubro - 8h
 Participei da Maratona de Programação da Layers Education,fiz grupo com um colega meu mais duas pessoas que conheci no local, felizmente consegui ter uma bom desempenho terminando em segundo lugar em grupo.
 
-## Total(Até o momento) = 88h
 
 
 
@@ -229,6 +228,22 @@ Continuei com o Roadmap e participei do [Contest abc376 no atcoder](https://atco
 
 
 
+## Semana 13 (28 à 2/10)
 
 
 
+
+## Semana 14 (4 à 9/11)
+Semana de prova, resolvi priorizar meu tempo para estudar para elas.
+
+
+
+
+## Semana 15 (11 à 16/11)
+Contrai Influenza B (gripe), fiquei bem mal, então resolvi ficar de repouso.
+
+
+
+
+## Total(Até o momento) = 96h
+## Total(Até o momento) = 96h
