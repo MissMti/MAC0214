@@ -229,6 +229,20 @@ Continuei com o Roadmap e participei do [Contest abc376 no atcoder](https://atco
 
 
 ## Semana 13 (28 à 2/10)
+### 28 de outubro - 2h30
+Comecei a fazer o Upsolving da Prova do último sábado.
+
+[Código feito no Upsolving](Contest/AtCoder/abc376/Upsolving).
+
+### 29 de outubro - 3h30
+Continuei a fazer o roadmap.
+
+[Códigos feitos no Estudo](Estudo/Primeiro_Roadmap/29_10).
+
+### 1 de outubro - 2h
+Como tinha um compromisso no sábado, resolvi fazer um contest antigo que ainda não havia realizado ainda, então eu fiz o [Contest abc376 no atcoder](https://atcoder.jp/contests/abc369).
+
+[Códigos feitos no Contest do dia](Contest/AtCoder/abc369).
 
 
 
@@ -245,5 +259,14 @@ Contrai Influenza B (gripe), fiquei bem mal, então resolvi ficar de repouso.
 
 
 
-## Total(Até o momento) = 96h
-## Total(Até o momento) = 96h
+## Total(Até o momento) = 102h
+
+
+
+
+
+
+
+
+
+
